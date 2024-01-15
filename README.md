@@ -1,1 +1,1 @@
-# DieLit-DieLit-a-simple-CRUD-application-for-classes
+# Просто CRUD приложение на классах с авторизацией и регистрацией
